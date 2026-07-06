@@ -156,20 +156,7 @@ function Home() {
 
       </div>
 
-      {/* CTA */}
-      <div className="bg-cyan-500 py-16 text-center">
-        <h2 className="text-4xl font-bold">
-          Ready to Start Learning?
-        </h2>
-
-        <p className="mt-4 text-lg">
-          Join thousands of students and improve your coding skills.
-        </p>
-
-        <button className="mt-8 bg-slate-900 px-8 py-3 rounded-xl hover:bg-black duration-300">
-          Join Now
-        </button>
-      </div>
+   
 
     </section>
   );
